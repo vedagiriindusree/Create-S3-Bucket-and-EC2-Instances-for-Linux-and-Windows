@@ -67,5 +67,5 @@ Select your instance → Instance State → Terminate.
 # EC2(Elastic Cloud Compute)
 ![image](https://github.com/user-attachments/assets/9d91ffc0-2e29-49f5-b8d8-fe5616a43ff7)
 
-Result:
+## Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS.
